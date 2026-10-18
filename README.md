@@ -1,5 +1,7 @@
 # TASKFlow
 Full-stack project and task management platform
+<img width="1027" height="706" alt="image" src="https://github.com/user-attachments/assets/89bae07d-bdc6-443d-bef2-cffc91f63c95" />
+
 
 Problem it solves: Software teams often maintain test cases in spreadsheets, record execution results in different tools, and track defects separately. TESTFlow brings test planning, execution, defect tracking, and quality reporting into one platform.
 
