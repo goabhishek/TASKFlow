@@ -220,5 +220,8 @@ volumes:
 Run:
 docker compose -f infrastructure/docker-compose.yml up -d
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/bbc84b4a-7f7e-4f1f-9804-3ce6f66c385f" />
+
+
 
 
